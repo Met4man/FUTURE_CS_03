@@ -1,4 +1,4 @@
-# 🔐 FUTURE_CS_03 — API Security Risk Analysis
+# 🔐API Security Risk Analysis
 
 **Internship:** Future Interns  
 **Task:** Task 3 — API Security Risk Analysis  
