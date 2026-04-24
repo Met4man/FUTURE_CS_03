@@ -1,4 +1,4 @@
-# API Security Assessment — OWASP crAPI
+# API Security Assessment 0 OWASP crAPI
 
 Academic penetration testing report conducted against [OWASP crAPI](https://github.com/OWASP/crAPI) (Completely Ridiculous API) as part of an internship at **Future Interns**, Institute of Finance Management (IFM), Dar es Salaam.
 
@@ -10,7 +10,7 @@ Academic penetration testing report conducted against [OWASP crAPI](https://gith
 |---|---|
 | **Target** | OWASP crAPI — Completely Ridiculous API |
 | **Environment** | Docker (`localhost:8888`) |
-| **Author** | Samson Budigila |
+| **Author** | David Msekena |
 | **Institution** | Institute of Finance Management (IFM), Dar es Salaam |
 | **Programme** | BSc Cybersecurity |
 | **Assessment Type** | Manual API Security Assessment / Penetration Testing |
