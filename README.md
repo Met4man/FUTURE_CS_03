@@ -1,4 +1,4 @@
-# API Security Assessment 0 OWASP crAPI
+# API Security Assessment - OWASP crAPI
 
 Academic penetration testing report conducted against [OWASP crAPI](https://github.com/OWASP/crAPI) (Completely Ridiculous API) as part of an internship at **Future Interns**, Institute of Finance Management (IFM), Dar es Salaam.
 
