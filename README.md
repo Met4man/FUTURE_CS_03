@@ -19,7 +19,7 @@ Academic penetration testing report conducted against [OWASP crAPI](https://gith
 | **Assessment Type** | Manual API Security Assessment / Penetration Testing |
 | **Framework** | OWASP API Security Top 10 (2023) |
 | **Date** | April 2026 |
-| **Classification** | Confidential — Academic Use Only |
+| **Classification** | Confidential - Academic Use Only |
 
 ---
 
