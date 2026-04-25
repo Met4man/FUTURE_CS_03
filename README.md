@@ -4,6 +4,9 @@ Academic penetration testing report conducted against [OWASP crAPI](https://gith
 
 ---
 
+<img width="1842" height="901" alt="image" src="https://github.com/user-attachments/assets/8abe44fc-423f-4750-b28e-db9405a10372" />
+
+
 ## Assessment Overview
 
 | Field | Details |
